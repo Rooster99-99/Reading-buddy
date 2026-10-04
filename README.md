@@ -7,3 +7,4 @@ Swap red/blue: try this first to fix your red color issue. It's saved, so you on
 Invert screen: fixes a "photo negative" look if a board ever has one.
 Redo touch setup
 Reset all progress
+Designed for the 2.8" CYD board
